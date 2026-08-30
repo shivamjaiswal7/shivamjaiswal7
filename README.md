@@ -77,11 +77,11 @@ A SQL-based data warehouse project involving data loading, transformation and an
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamjaiswal7&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamjaiswal7&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img
+src="https://github-readme-activity-graph.vercel.app/graph?username=shivamjaiswal7&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
 ---
